@@ -10,3 +10,25 @@ margin: 0;
   width: 100vw;
 }
 
+/* <div class=" container row mb-3 mr-3">
+                             <div class="col-6">
+
+                                <div class="col-4 col-md-4 col-sm-12 mt-3 mb-3 text-center">
+        
+                                    <p class="mt-4">Conozca el estado de la ejecuci&oacute;n en <b>Jenkins</b></p> 
+                                    <a href="${env.BUILD_URL} " target="_bank"><button type="button" class="btn btn-warning">Ir a Jenkins</button></a>
+                                    
+                              </div>
+                              <div class="col-2 col-md-2 col-sm-12 text-center mt-3 mb-3 align-item-center">
+                                <img class="img-responsive"src="https://i.imgur.com/5zc24YS.png" alt="logo-serenity">
+                              </div>
+
+
+
+
+
+                             </div>
+
+
+                            
+                         </div>*/
